@@ -5,6 +5,8 @@ Desc: Aplicação simples em Dart de uma calculadora com as quatro operaçãos m
 
 //Class principal.
 void main() {
+//informe os valores na ordem>> Operador, primeiro valor, segundo valor. 
+// Operador semprte string. Os valores sempre números.
  calc('+', 2, 2);
 }
 
